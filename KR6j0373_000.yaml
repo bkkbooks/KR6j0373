@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0373/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說隨求即得大自在陀羅尼神呪經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1154.xml
+    old_id: T20n1154
+hash: sha256:eddeb61f344ec27b2f8423a8870aa62c7a23f0cd9073c9a65b87416a64332e72

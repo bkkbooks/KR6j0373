@@ -1,0 +1,31 @@
+canonical_identifier: bkk:krp/KR6j0373/T/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: line-break, offset: 0, content: '', id: KR6j0373_T_000-0637b10, ed: T, 'n': 0637b10}
+  - {type: line-break, offset: 0, content: '', id: KR6j0373_T_000-0637b11, ed: T, 'n': 0637b11}
+  - {type: line-break, offset: 0, content: '', id: KR6j0373_T_000-0637b12, ed: T, 'n': 0637b12}
+  - {type: line-break, offset: 0, content: '', id: KR6j0373_T_000-0637b13, ed: T, 'n': 0637b13}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6j0373_T_000-bkkpn1}
+  - {type: punctuation, offset: 0, content: o, id: KR6j0373_T_000-bkkpn2}
+  - {type: punctuation, offset: 0, content: ., id: KR6j0373_T_000-bkkpn3}
+  - {type: punctuation, offset: 0, content: '1', id: KR6j0373_T_000-bkkpn4}
+  - {type: punctuation, offset: 0, content: '1', id: KR6j0373_T_000-bkkpn5}
+  - {type: punctuation, offset: 0, content: '5', id: KR6j0373_T_000-bkkpn6}
+  - {type: punctuation, offset: 0, content: '4', id: KR6j0373_T_000-bkkpn7}
+  - {type: punctuation, offset: 0, content: '[', id: KR6j0373_T_000-bkkpn8}
+  - {type: punctuation, offset: 0, content: c, id: KR6j0373_T_000-bkkpn9}
+  - {type: punctuation, offset: 0, content: f, id: KR6j0373_T_000-bkkpn10}
+  - {type: punctuation, offset: 0, content: ., id: KR6j0373_T_000-bkkpn11}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6j0373_T_000-bkkpn12}
+  - {type: punctuation, offset: 0, content: o, id: KR6j0373_T_000-bkkpn13}
+  - {type: punctuation, offset: 0, content: ., id: KR6j0373_T_000-bkkpn14}
+  - {type: punctuation, offset: 0, content: '1', id: KR6j0373_T_000-bkkpn15}
+  - {type: punctuation, offset: 0, content: '1', id: KR6j0373_T_000-bkkpn16}
+  - {type: punctuation, offset: 0, content: '5', id: KR6j0373_T_000-bkkpn17}
+  - {type: punctuation, offset: 0, content: '3', id: KR6j0373_T_000-bkkpn18}
+  - {type: punctuation, offset: 0, content: ']', id: KR6j0373_T_000-bkkpn19}
+  - {type: line-break, offset: 0, content: '', id: KR6j0373_T_000-0637b14, ed: T, 'n': 0637b14}
+  body: []
+  back: []
+hash: sha256:62de003faed4a5ebe412126fb7ac18baf78f36cbd36b3e33b0d748869b924d1e

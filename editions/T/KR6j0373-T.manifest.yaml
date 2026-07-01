@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6j0373/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0373/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說隨求即得大自在陀羅尼神呪經
+  identifiers:
+    krp: KR6j0373
+    cbeta: T20n1154
+    cbeta_old_id: T20n1154
+    authorityid: CA0002864
+    json_key: T1154
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1154.xml
+    old_id: T20n1154
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0373_000-T.yaml, hash: 'sha256:eddeb61f344ec27b2f8423a8870aa62c7a23f0cd9073c9a65b87416a64332e72'}
+  - {seq: 1, filename: KR6j0373_001-T.yaml, hash: 'sha256:603a162d51406895e80e10459c9b6a9ee15149bc59fe3659e3ea4b3f059ec3ff'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0373_000-T.markers.yaml, hash: 'sha256:62de003faed4a5ebe412126fb7ac18baf78f36cbd36b3e33b0d748869b924d1e'}
+  - {seq: 1, role: markers, filename: assets/KR6j0373_001-T.markers.yaml, hash: 'sha256:c1b7b232e707066c389a4cfdb5b92b1fe0066750aa92499d4aab0e8d5e05d2e7'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0373_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 10476
+  label: '佛說隨求即得大自在陀羅尼神
+
+    呪經'
+  type: juan
+  level: 1
+hash: sha256:0be638b4683471350252fa308c6f7d2a9f0a708c110790d54ed3eb29f2dd8dc0
