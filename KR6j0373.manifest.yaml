@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0373/v1
 canonical_location: https://kanripo.org/bkk/KR6j0373/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說隨求即得大自在陀羅尼神呪經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0373_000.yaml, hash: 'sha256:eddeb61f344ec27b2f8423a8870aa62c7a23f0cd9073c9a65b87416a64332e72'}
-  - {seq: 1, filename: KR6j0373_001.yaml, hash: 'sha256:603a162d51406895e80e10459c9b6a9ee15149bc59fe3659e3ea4b3f059ec3ff'}
+  - {seq: 1, filename: KR6j0373_001.yaml, hash: 'sha256:4ccfa70ff663cc8b45c7a0613a3f026b2bd8029091c6704ad818ec6a18765628'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0373_000.markers.yaml, hash: 'sha256:b643ddb44aed81cbffc855461c8373b739d4034e73bb977627c11f4ea2bc8981'}
-  - {seq: 1, role: markers, filename: assets/KR6j0373_001.markers.yaml, hash: 'sha256:aa351e7a0193661492d4b2ead2b932783c3b12f1b2d0aef446a33d787754b24d'}
+  - {seq: 1, role: markers, filename: assets/KR6j0373_001.markers.yaml, hash: 'sha256:dd416b50d460b40b88811571534bfaa7561131777d4b860ab0b63a0d8c843b3d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,4 +48,7 @@ table_of_contents:
     呪經'
   type: juan
   level: 1
-hash: sha256:e4566147c9f3c0f4874cccb18fce17bef034a6ad958bac92d553183a9ac76c3d
+hash: sha256:112bd67390c8484e09be33eb73ea6d9c685f4ed0445e43d4f24a55b5a295a8b0
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
